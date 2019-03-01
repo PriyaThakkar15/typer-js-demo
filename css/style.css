@@ -1,0 +1,22 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: darkgray;
+    background: url("../image/access-adult-black-and-white-1449052.jpg");
+    background-size: cover;
+    
+
+}
+h1{
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+    width:100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    color: #000;
+    font-size: 75px;
+    text-shadow: 0 2px 5px rgba(0,0,0,.5);
+}
